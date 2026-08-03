@@ -10,7 +10,7 @@ Hey there! I'm an AI & Data Science senior who loves figuring out how things wor
 
 * 🛠️ **Currently working on:** Multi-Agent Architectures for my final year capstone project.
 * 🌱 **Currently learning:** LangChain & LangGraph for building autonomous Agentic AI systems.
-* 📊 **Expanding my toolkit:** Mastering Power BI and advanced Excel workflows.
+* 📊 **Expanding my toolkit:** Mastering Power BI and Excel workflows.
 * ⚡ **Fun fact:** There is no Fun Fact 😉
 
 ---
