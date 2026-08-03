@@ -18,7 +18,7 @@ Hey there! I'm an AI & Data Science senior who loves figuring out how things wor
 ### 📁 Featured Projects
 
 #### 📉 Customer Churn Analytics Platform | [GitHub](https://github.com/amanAtGit09/customer-churn-prediction)
-**Tech:** Python, Scikit-learn, XGBoost, SHAP, MLflow, Evidently AI, Streamlit, SQLite
+**Tech:** Python, Scikit-learn, Logistic Regression, Random Forest, XGBoost, SHAP, MLflow, Evidently AI, Streamlit, SQLite
 * Built an end-to-end churn prediction platform with a Logistic Regression baseline, then evaluating Random Forest and XGBoost for 30-day risk forecasting.
 * Engineered temporal features for revenue-at-risk estimation, risk tiering, and customer prioritization.
 * Added a What-If simulator using SHAP explainability for retention strategy, and integrated MLflow and Evidently AI for drift monitoring.
