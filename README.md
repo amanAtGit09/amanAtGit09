@@ -42,7 +42,7 @@ Hey there! I'm an AI & Data Science senior who loves figuring out how things wor
 
 ---
 
-#### 💸 ExpensePilot – Personal Finance Analytics Platform | [Private Repo. Soon making it public]
+#### 💸 ExpensePilot – Personal Finance Analytics Platform | [GitHub](https://github.com/amanAtGit09/ExpensePilot)
 **Tech:** Flask, PostgreSQL, JWT, REST APIs, Interactive Visualizations, Supabase
 * Created a personal finance platform for transaction categorization, budget tracking, and spending analytics.
 * Built a secure Flask-PostgreSQL backend with JWT authentication and integrated an AI insight assistant.
