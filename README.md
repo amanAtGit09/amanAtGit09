@@ -42,6 +42,14 @@ Hey there! I'm an AI & Data Science senior who loves figuring out how things wor
 
 ---
 
+#### 💊 TrustPharma – Web3 Anti-Counterfeit Supply Chain Network | [GitHub](https://github.com/amanAtGit09/TrustPharma)
+**Tech:** Solidity, React.js, Ethers.js, Hardhat, OpenZeppelin, MetaMask, Keccak-256
+* Architected a 4-tier decentralized application (DApp) to track pharmaceutical provenance and enforce non-repudiable custodial handshakes from manufacturer to retail pharmacy.
+* Engineered a single-use commit-reveal cryptographic protocol, securely burning on-chain hash commitments to `bytes32(0)` upon consumer verification to neutralize package cloning and replay attacks.
+* Implemented strict OpenZeppelin Role-Based Access Control (RBAC) for batch minting and logistics, alongside zero-gas read queries for public auditing and a global emergency batch recall circuit breaker.
+
+---
+
 #### 💸 ExpensePilot – Personal Finance Analytics Platform | [GitHub](https://github.com/amanAtGit09/ExpensePilot)
 **Tech:** Flask, PostgreSQL, JWT, REST APIs, Interactive Visualizations, Supabase
 * Created a personal finance platform for transaction categorization, budget tracking, and spending analytics.
